@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Tiwary</h1>
 <h3 align="center">A very curious Physics Loving Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-tiwary&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-tiwary" /> </p>
 
 - 📫 How to reach me **avinashkumar28799@gmail.com**
 
