@@ -1,21 +1,64 @@
 <h1 align="center">Hi 👋, I'm Avinash Tiwary</h1>
-<h3 align="center">A very curious Physics Loving Coder</h3>
+<h3 align="center">Quant Trader | Tech Enthusiast | Physics & Finance</h3>
 
-
-- 📫 How to reach me **avinashkumar28799@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avinash-kumar-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-kumar-himanshu" height="30" width="40" /></a>
-<a href="https://instagram.com/the_avinash_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_avinash_2.0" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/the cosmophile](https://www.youtube.com/channel/UCJxCXheFgSyQnXWVAcL9MwA/featured)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the cosmophile" height="30" width="40" /></a>
+<p align="center">
+  <em>Passionate about building efficient trading systems, financial modeling, and exploring the intersection of Physics and Finance.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/avinash-kumar-himanshu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:avinashkumar28799@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCJxCXheFgSyQnXWVAcL9MwA/featured"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-tiwary&show_icons=true&locale=en&layout=compact" alt="avinash-tiwary" /></p>
+---
 
+### 🚀 About Me
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="avinash-kumar-himanshu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avinash-kumar-himanshu?trk=profile-badge">Avinash Himanshu</a></div>
-              
+I am a **Quant Trader** with a rigorous background in Physics. I approach financial markets with a first-principles mindset, leveraging technology to build low-latency systems and data-driven strategies. My work spans from high-performance systems programming in **Rust** and **C++** to complex financial modeling in **Python**.
+
+When I'm not trading or coding, you can find me exploring the latest in tech or deep-diving into cosmology.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**Data Science & Quant:**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Tools & Platforms:**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[prajna](https://github.com/avinash-tiwary/prajna)** | High-performance system components and tools for financial applications. | Rust |
+| **[Neo](https://github.com/avinash-tiwary/Neo)** | Algorithmic trading system framework for strategy development and execution. | Python |
+| **[Kotak Neo API](https://github.com/avinash-tiwary/kotak-neo-api)** | A comprehensive Python wrapper for the Kotak Neo trading API. | Python |
+| **[Option Pricing Toolkit](https://github.com/avinash-tiwary/optionpricing_toolkit_python_package)** | A library for financial modeling and option pricing simulations. | Python, NumPy |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinash-tiwary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Avinash's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-tiwary&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
