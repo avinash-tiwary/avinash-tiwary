@@ -1,45 +1,64 @@
 <h1 align="center">Hi 👋, I'm Avinash Tiwary</h1>
-<h3 align="center">Quant Trader | Tech Enthusiast | Physics & Finance</h3>
+<h3 align="center">Quant Trader | Physicist | Systems Engineer</h3>
 
 <p align="center">
-  <em>Passionate about building efficient trading systems, financial modeling, and exploring the intersection of Physics and Finance.</em>
+  <em>Specializing in High-Frequency Trading, Volatility Strategies, and Low-Latency Systems.</em>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/avinash-kumar-himanshu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:avinashkumar28799@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCJxCXheFgSyQnXWVAcL9MwA/featured"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:avinashhimanshu13@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a **Quant Trader** with a rigorous background in Physics. I approach financial markets with a first-principles mindset, leveraging technology to build low-latency systems and data-driven strategies. My work spans from high-performance systems programming in **Rust** and **C++** to complex financial modeling in **Python**.
+I am a **Physicist turned Quant** with a deep focus on first-principles thinking. My journey began in **Theoretical Physics** (General Relativity & Cosmology), where I developed rigorous mathematical modeling skills. Today, I apply those same principles to **Financial Markets**, building low-latency trading systems and researching alpha signals.
 
-When I'm not trading or coding, you can find me exploring the latest in tech or deep-diving into cosmology.
+I bridge the gap between **Quantitative Research** (Stochastic Calculus, Bayesian Inference) and **Systems Engineering** (C++, Rust, Linux), ensuring that sophisticated models run at microsecond speeds.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💼 Professional Experience
 
-**Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+#### **Quantitative Trader (HFT)** | *Current*
+*   **Focus:** Volatility dispersion, Skew trading, and Greeks management.
+*   **Impact:** Managing a derivatives portfolio with a **>80% win rate**.
+*   **Tech:** Developed Python-based research pipelines and real-time risk monitoring dashboards (ClickHouse/Grafana).
+
+#### **Quantitative Strategist** | *Previous*
+*   **Focus:** Low-latency market-making and execution algorithms.
+*   **Impact:** Engineered C++ execution strategies achieving **~1.5µs tick-to-order latency** on Linux.
+*   **Tech:** C++, Linux System Optimization, Market Microstructure analysis.
+
+---
+
+### 🎓 Education
+
+*   **M.Sc. Astronomy & Physics** | *Distinction (CGPA: 8.73)*
+    *   *Focus:* Computational Astrophysics, Bayesian Statistics, MCMC Simulations.
+*   **B.Sc. Physics (Hons)**
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Systems Engineering:**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-**Data Science & Quant:**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Tools & Platforms:**
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+*   *Skills:* Template Metaprogramming, Lock-free Data Structures, System Optimization.
+
+**Quantitative Finance:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+*   *Skills:* Stochastic Calculus, Options Pricing (Black-Scholes), Time-Series Analysis, Market Microstructure.
+
+**Data Science & Research:**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+*   *Skills:* Bayesian Inference, MCMC, Predictive Modeling.
 
 ---
 
@@ -47,18 +66,14 @@ When I'm not trading or coding, you can find me exploring the latest in tech or 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[prajna](https://github.com/avinash-tiwary/prajna)** | High-performance system components and tools for financial applications. | Rust |
-| **[Neo](https://github.com/avinash-tiwary/Neo)** | Algorithmic trading system framework for strategy development and execution. | Python |
-| **[Kotak Neo API](https://github.com/avinash-tiwary/kotak-neo-api)** | A comprehensive Python wrapper for the Kotak Neo trading API. | Python |
-| **[Option Pricing Toolkit](https://github.com/avinash-tiwary/optionpricing_toolkit_python_package)** | A library for financial modeling and option pricing simulations. | Python, NumPy |
+| **[Prajna](https://github.com/avinash-tiwary/prajna)** | High-performance system components and tools for financial applications. | Rust |
+| **[Neo](https://github.com/avinash-tiwary/Neo)** | Event-driven algorithmic trading framework for strategy development. | Python |
+| **[MCMC](https://github.com/avinash-tiwary/MCMC)** | Bayesian Parameter Estimation using Hamiltonian Monte Carlo. | Python, SciPy |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-tiwary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Avinash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-tiwary&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/avinash-tiwary/avinash-tiwary/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
