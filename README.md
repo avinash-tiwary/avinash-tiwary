@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash Tiwary</h1>
+<h1 align="center">Hi 👋, I'm Avinash Himanshu</h1>
 <h3 align="center">Quant Trader | Physicist | Systems Engineer</h3>
 
 <p align="center">
