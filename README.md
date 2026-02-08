@@ -36,7 +36,7 @@ I bridge the gap between **Quantitative Research** (Stochastic Calculus, Bayesia
 
 ### 🎓 Education
 
-*   **M.Sc. Astronomy & Physics** | *Distinction (CGPA: 8.73)*
+*   **M.Sc. Astronomy & Physics**
     *   *Focus:* Computational Astrophysics, Bayesian Statistics, MCMC Simulations.
 *   **B.Sc. Physics (Hons)**
 
